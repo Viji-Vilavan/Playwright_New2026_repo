@@ -1,0 +1,26 @@
+{
+    "PMLogin": {
+        "password": "1234",
+        "username": "1000"
+    },
+    "book": {
+        "authorEmail": "vtest@gmail.com",
+        "cluster": "C2",
+        "generatedISBN": "777224824509",
+        "workflow": "Without Template (Fresh Type)",
+        "author": "TestAu",
+        "priority": "Medium",
+        "sourceFile": "imr_BB.pdf",
+        "difficulty": "Complex",
+        "stage": "Fresh Type Setting",
+        "solution": "Yes",
+        "name": "Auto_Test",
+        "masterCopier": "MC1(1077)",
+        "publisher": "Cornelsen",
+        "category": "Non-Math",
+        "generatedBookName": "VTest_WK1Z",
+        "generalInstructionFilePath": "D:\\AutomatcionPath\\general.pdf",
+        "sourceFilePath": "D:\\AutomatcionPath\\source.pdf",
+        "instructionFile": "lastscenar.pdf"
+    }
+}
