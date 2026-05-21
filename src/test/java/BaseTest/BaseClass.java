@@ -26,7 +26,7 @@ public class BaseClass {
         // Launch Browser
         browser = playwright.chromium().launch(
                 new BrowserType.LaunchOptions()
-                        .setHeadless(false)
+                        .setHeadless(true)
         );
 
         // Create Browser Context
