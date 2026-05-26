@@ -35,13 +35,13 @@ public class BaseClass {
         // Clear Permissions
         context.clearPermissions();
 
-        // Start Tracing
-        context.tracing().start(
-                new Tracing.StartOptions()
-                        .setScreenshots(true)
-                        .setSnapshots(true)
-                        .setSources(true)
-        );
+//        // Start Tracing
+//        context.tracing().start(
+//                new Tracing.StartOptions()
+//                        .setScreenshots(true)
+//                        .setSnapshots(true)
+//                        .setSources(true)
+//        );
 
         // Create New Page
         page = context.newPage();
@@ -53,11 +53,11 @@ public class BaseClass {
     @AfterMethod
     public void tearDown() {
 
-        // Stop Tracing and Save Trace File
-        context.tracing().stop(
-                new Tracing.StopOptions()
-                        .setPath(Paths.get("trace.zip"))
-        );
+//        // Stop Tracing and Save Trace File
+//        context.tracing().stop(
+//                new Tracing.StopOptions()
+//                        .setPath(Paths.get("trace.zip"))
+//        );
 
         // Close Browser
         browser.close();

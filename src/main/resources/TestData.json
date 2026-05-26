@@ -6,7 +6,7 @@
     "book": {
         "authorEmail": "vtest@gmail.com",
         "cluster": "C2",
-        "generatedISBN": "777456860718",
+        "generatedISBN": "777909699049",
         "workflow": "Without Template (Fresh Type)",
         "author": "TestAu",
         "priority": "Medium",
@@ -18,7 +18,7 @@
         "masterCopier": "MC1(1077)",
         "publisher": "Cornelsen",
         "category": "Non-Math",
-        "generatedBookName": "VTest_6JM4",
+        "generatedBookName": "VTest_1NP3",
         "generalInstructionFilePath": "D:\\AutomatcionPath\\general.pdf",
         "sourceFilePath": "D:\\AutomatcionPath\\source.pdf",
         "instructionFile": "lastscenar.pdf"

@@ -351,6 +351,8 @@ public class AddBookPage {
                         .setName("Chapters2 BYM-CH-2 add-asset-icon")
         ).getByRole(AriaRole.TEXTBOX).fill("C2");
     }
+
+
 //
 //    private void enterPageRange() {
 //
